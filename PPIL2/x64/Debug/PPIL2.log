@@ -1,0 +1,18 @@
+﻿  Segment.cpp
+C:\Users\Elève\Downloads\PPIL2\PPIL2\Segment.cpp(18,16): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Elève\Downloads\PPIL2\PPIL2\Segment.cpp(19,16): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  Triangle.cpp
+C:\Users\Elève\Downloads\PPIL2\PPIL2\Triangle.h(39,17): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Elève\Downloads\PPIL2\PPIL2\Triangle.h(40,17): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Elève\Downloads\PPIL2\PPIL2\Triangle.h(42,14): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Elève\Downloads\PPIL2\PPIL2\Triangle.h(43,12): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Elève\Downloads\PPIL2\PPIL2\Triangle.h(48,44): warning C4244: 'argument' : conversion de 'const double' en 'const int', perte possible de données
+C:\Users\Elève\Downloads\PPIL2\PPIL2\Triangle.h(48,39): warning C4244: 'argument' : conversion de 'const double' en 'const int', perte possible de données
+C:\Users\Elève\Downloads\PPIL2\PPIL2\Triangle.h(48,35): warning C4244: 'argument' : conversion de 'const double' en 'const int', perte possible de données
+C:\Users\Elève\Downloads\PPIL2\PPIL2\Triangle.h(48,30): warning C4244: 'argument' : conversion de 'const double' en 'const int', perte possible de données
+C:\Users\Elève\Downloads\PPIL2\PPIL2\Triangle.h(48,25): warning C4244: 'argument' : conversion de 'const double' en 'const int', perte possible de données
+C:\Users\Elève\Downloads\PPIL2\PPIL2\Triangle.h(48,20): warning C4244: 'argument' : conversion de 'const double' en 'const int', perte possible de données
+  Vecteur2D.cpp
+  Génération de code en cours...
+  LINK : C:\Users\Elève\Downloads\PPIL2\x64\Debug\PPIL2.exe introuvable ou non généré par la dernière édition de liens incrémentielle ; édition de liens complète en cours
+  PPIL2.vcxproj -> C:\Users\Elève\Downloads\PPIL2\x64\Debug\PPIL2.exe
